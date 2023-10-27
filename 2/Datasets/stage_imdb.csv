@@ -1,0 +1,996 @@
+Title,Director,Rating,Genre,Duration,Year
+Top Gun: Maverick,JosephKosinski,8.6,"Action,Drama",130min,2022
+Everything Everywhere All at Once,"DanKwan,",8.3,"Action,Adventure,Comedy",139min,2022
+The Batman,MattReeves,7.9,"Action,Crime,Drama",176min,2022
+Jurassic Park,StevenSpielberg,8.2,"Action,Adventure,Science Fiction",127min,1993
+The Godfather,FrancisFordCoppola,9.2,"Crime,Drama",175min,1972
+Spider-Man: No Way Home,JonWatts,8.3,"Action,Adventure,Fantasy",148min,2021
+RRR (Rise Roar Revolt),S.S.Rajamouli,8.1,"Action,Drama",187min,2022
+Pirates of the Caribbean: The Curse of the Black Pearl,GoreVerbinski,8.1,"Action,Adventure,Fantasy",143min,2003
+Dune: Part One,DenisVilleneuve,8,"Action,Adventure,Drama",155min,2021
+Goodfellas,MartinScorsese,8.7,"Biography,Crime,Drama",145min,1990
+The Shawshank Redemption,FrankDarabont,9.3,Drama,142min,1994
+Star Wars,GeorgeLucas,8.6,"Action,Adventure,Fantasy",121min,1977
+Titanic,JamesCameron,7.9,"Drama,Romance",194min,1997
+Harry Potter and the Sorcerers Stone,ChrisColumbus,7.6,"Adventure,Family,Fantasy",152min,2001
+Once Upon a Time in... Hollywood,QuentinTarantino,7.6,"Comedy,Drama",161min,2019
+The Goonies,RichardDonner,7.7,"Adventure,Comedy,Family",114min,1985
+American Psycho,MaryHarron,7.6,"Crime,Drama,Horror",102min,2000
+Avengers: Endgame,"AnthonyRusso,",8.4,"Action,Adventure,Drama",181min,2019
+Star Wars: Episode III - Revenge of the Sith,GeorgeLucas,7.6,"Action,Adventure,Fantasy",140min,2005
+The Gentlemen,GuyRitchie,7.8,"Action,Comedy,Crime",113min,2019
+Whiplash,DamienChazelle,8.5,"Drama,Music",106min,2014
+The Dark Knight,ChristopherNolan,9,"Action,Crime,Drama",152min,2008
+Interstellar,ChristopherNolan,8.6,"Adventure,Drama,Science Fiction",169min,2014
+Joker,ToddPhillips,8.4,"Crime,Drama,Thriller",122min,2019
+Knives Out,RianJohnson,7.9,"Comedy,Crime,Drama",130min,2019
+CODA,SianHeder,8,"Comedy,Drama,Music",111min,2021
+The Fifth Element,LucBesson,7.6,"Action,Adventure,Science Fiction",126min,1997
+Verdens verste menneske,JoachimTrier,7.9,"Comedy,Drama,Romance",128min,2021
+Avatar,JamesCameron,7.8,"Action,Adventure,Fantasy",162min,2009
+Mission: Impossible - Fallout,ChristopherMcQuarrie,7.7,"Action,Adventure,Thriller",147min,2018
+Inception,ChristopherNolan,8.8,"Action,Adventure,Science Fiction",148min,2010
+The Departed,MartinScorsese,8.5,"Crime,Drama,Thriller",151min,2006
+K.G.F: Chapter 2,PrashanthNeel,8.6,"Action,Crime,Drama",168min,2022
+Saving Private Ryan,StevenSpielberg,8.6,"Drama,War",169min,1998
+1917,SamMendes,8.2,"Action,Drama,War",119min,2019
+Forrest Gump,RobertZemeckis,8.8,"Drama,Romance",142min,1994
+The Grand Budapest Hotel,WesAnderson,8.1,"Adventure,Comedy,Crime",99min,2014
+Pulp Fiction,QuentinTarantino,8.9,"Crime,Drama",154min,1994
+The Wolf of Wall Street,MartinScorsese,8.2,"Biography,Comedy,Crime",180min,2013
+Requiem for a Dream,DarrenAronofsky,8.3,Drama,102min,2000
+Heat,MichaelMann,8.3,"Action,Crime,Drama",170min,1995
+Back to the Future,RobertZemeckis,8.5,"Adventure,Comedy,Science Fiction",116min,1985
+Blade Runner 2049,DenisVilleneuve,8,"Action,Drama,Mystery",164min,2017
+Taxi Driver,MartinScorsese,8.2,"Crime,Drama",114min,1976
+Fight Club,DavidFincher,8.8,Drama,139min,1999
+Rogue One,GarethEdwards,7.8,"Action,Adventure,Science Fiction",133min,2016
+Watchmen,ZackSnyder,7.6,"Action,Drama,Mystery",162min,2009
+The Godfather Part II,FrancisFordCoppola,9,"Crime,Drama",202min,1974
+Ghostbusters,IvanReitman,7.8,"Action,Comedy,Fantasy",105min,1984
+Inglourious Basterds,QuentinTarantino,8.3,"Adventure,Drama,War",153min,2009
+Léon,LucBesson,8.5,"Action,Crime,Drama",110min,1994
+Schindlers List,StevenSpielberg,9,"Biography,Drama,History",195min,1993
+The Lord of the Rings: The Fellowship of the Ring,PeterJackson,8.8,"Action,Adventure,Drama",178min,2001
+The Silence of the Lambs,JonathanDemme,8.6,"Crime,Drama,Thriller",118min,1991
+Avengers: Infinity War,"AnthonyRusso,",8.4,"Action,Adventure,Science Fiction",149min,2018
+Gisaengchung,BongJoonHo,8.5,"Comedy,Drama,Thriller",132min,2019
+Paddington 2,PaulKing,7.8,"Adventure,Comedy,Family",103min,2017
+The Wizard of Oz,"VictorFleming,",8.1,"Adventure,Family,Fantasy",102min,1939
+Thor: Ragnarok,TaikaWaititi,7.9,"Action,Adventure,Comedy",130min,2017
+Tombstone,"GeorgeP.Cosmatos,",7.8,"Biography,Drama,History",130min,1993
+Zack Snyders Justice League,ZackSnyder,8,"Action,Adventure,Fantasy",242min,2021
+Edward Scissorhands,TimBurton,7.9,"Drama,Fantasy,Romance",105min,1990
+Deadpool,TimMiller,8,"Action,Adventure,Comedy",108min,2016
+Bohemian Rhapsody,BryanSinger,7.9,"Biography,Drama,Music",134min,2018
+Guardians of the Galaxy,JamesGunn,8,"Action,Adventure,Comedy",121min,2014
+Alien,RidleyScott,8.5,"Horror,Science Fiction",117min,1979
+Star Wars: Episode VII - The Force Awakens,J.J.Abrams,7.8,"Action,Adventure,Science Fiction",138min,2015
+Django Unchained,QuentinTarantino,8.4,"Drama,Western",165min,2012
+Se7en,DavidFincher,8.6,"Crime,Drama,Mystery",127min,1995
+Star Wars: Episode VI - Return of the Jedi,RichardMarquand,8.3,"Action,Adventure,Fantasy",131min,1983
+Predator,JohnMcTiernan,7.8,"Action,Adventure,Horror",107min,1987
+Gone Girl,DavidFincher,8.1,"Drama,Mystery,Thriller",149min,2014
+Get Out,JordanPeele,7.7,"Horror,Mystery,Thriller",104min,2017
+Apocalypse Now,FrancisFordCoppola,8.5,"Drama,Mystery,War",147min,1979
+300,ZackSnyder,7.6,"Action,Drama",117min,2006
+The Empire Strikes Back,IrvinKershner,8.7,"Action,Adventure,Fantasy",124min,1980
+Kingsman: The Secret Service,MatthewVaughn,7.7,"Action,Adventure,Comedy",129min,2014
+The Matrix,"LanaWachowski,",8.7,"Action,Science Fiction",136min,1999
+Gladiator,RidleyScott,8.5,"Action,Adventure,Drama",155min,2000
+The Breakfast Club,JohnHughes,7.8,"Comedy,Drama",97min,1985
+Hacksaw Ridge,MelGibson,8.1,"Biography,Drama,History",139min,2016
+Her,SpikeJonze,8,"Drama,Romance,Science Fiction",126min,2013
+The Dark Knight Rises,ChristopherNolan,8.4,"Action,Drama",164min,2012
+Mad Max: Fury Road,GeorgeMiller,8.1,"Action,Adventure,Science Fiction",120min,2015
+Once Upon a Time in America,SergioLeone,8.3,"Crime,Drama",229min,1984
+Prisoners,DenisVilleneuve,8.1,"Crime,Drama,Mystery",153min,2013
+Call Me by Your Name,LucaGuadagnino,7.8,"Drama,Romance",132min,2017
+Ford v Ferrari,JamesMangold,8.1,"Action,Biography,Drama",152min,2019
+The Irishman,MartinScorsese,7.8,"Biography,Crime,Drama",209min,2019
+Black Swan,DarrenAronofsky,8,"Drama,Thriller",108min,2010
+Full Metal Jacket,StanleyKubrick,8.3,"Drama,War",116min,1987
+Harry Potter and the Deathly Hallows: Part 1,DavidYates,7.7,"Adventure,Family,Fantasy",146min,2010
+No Country for Old Men,"EthanCoen,",8.2,"Crime,Drama,Thriller",122min,2007
+A Few Good Men,RobReiner,7.7,"Drama,Thriller",138min,1992
+Ex Machina,AlexGarland,7.7,"Drama,Science Fiction,Thriller",108min,2014
+Guardians of the Galaxy Vol. 2,JamesGunn,7.6,"Action,Adventure,Comedy",136min,2017
+Scarface,BrianDePalma,8.3,"Crime,Drama",170min,1983
+Blade Runner,RidleyScott,8.1,"Action,Drama,Science Fiction",117min,1982
+Aliens,JamesCameron,8.4,"Action,Adventure,Science Fiction",137min,1986
+Shutter Island,MartinScorsese,8.2,"Mystery,Thriller",138min,2010
+Moneyball,BennettMiller,7.6,"Biography,Drama,Sport",133min,2011
+Deadpool 2,DavidLeitch,7.7,"Action,Adventure,Comedy",119min,2018
+Spider-Man: Into the Spider-Verse,"BobPersichetti,",8.4,"Animation,Action,Adventure",117min,2018
+Stand by Me,RobReiner,8.1,"Adventure,Drama",89min,1986
+The Princess Bride,RobReiner,8,"Adventure,Family,Fantasy",98min,1987
+The Green Mile,FrankDarabont,8.6,"Crime,Drama,Fantasy",189min,1999
+Jojo Rabbit,TaikaWaititi,7.9,"Comedy,Drama,War",108min,2019
+12 Angry Men,SidneyLumet,9,"Crime,Drama",96min,1957
+Casino Royale,MartinCampbell,8,"Action,Adventure,Thriller",144min,2006
+In Bruges,MartinMcDonagh,7.9,"Comedy,Crime,Drama",107min,2008
+Pride & Prejudice,JoeWright,7.8,"Drama,Romance",129min,2005
+Edge of Tomorrow,DougLiman,7.9,"Action,Adventure,Science Fiction",113min,2014
+The Lord of the Rings: The Return of the King,PeterJackson,9,"Action,Adventure,Drama",201min,2003
+The Godfather Part III,FrancisFordCoppola,7.6,"Crime,Drama",162min,1990
+Harry Potter and the Goblet of Fire,MikeNewell,7.7,"Adventure,Family,Fantasy",157min,2005
+The Prestige,ChristopherNolan,8.5,"Drama,Mystery,Science Fiction",130min,2006
+Dunkirk,ChristopherNolan,7.8,"Action,Drama,History",106min,2017
+Harry Potter and the Deathly Hallows: Part 2,DavidYates,8.1,"Adventure,Fantasy,Mystery",130min,2011
+American Beauty,SamMendes,8.4,Drama,122min,1999
+Chinatown,RomanPolanski,8.2,"Drama,Mystery,Thriller",130min,1974
+Dead Poets Society,PeterWeir,8.1,"Comedy,Drama",128min,1989
+Raiders of the Lost Ark,StevenSpielberg,8.4,"Action,Adventure",115min,1981
+Drive,NicolasWindingRefn,7.8,"Action,Drama",100min,2011
+The Sandlot,DavidMickeyEvans,7.8,"Comedy,Drama,Family",101min,1993
+The Truman Show,PeterWeir,8.2,"Comedy,Drama",103min,1998
+The Terminator,JamesCameron,8.1,"Action,Science Fiction",107min,1984
+Out of the Past,JacquesTourneur,8,"Crime,Drama,Film-Noir",97min,1947
+The Shining,StanleyKubrick,8.4,"Drama,Horror",146min,1980
+A Clockwork Orange,StanleyKubrick,8.3,"Crime,Science Fiction",136min,1971
+There Will Be Blood,PaulThomasAnderson,8.2,Drama,158min,2007
+Airplane!,"JimAbrahams,",7.7,Comedy,88min,1980
+E.T. the Extra-Terrestrial,StevenSpielberg,7.9,"Adventure,Family,Science Fiction",115min,1982
+Toy Story,JohnLasseter,8.3,"Animation,Adventure,Comedy",81min,1995
+Batman Begins,ChristopherNolan,8.2,"Action,Crime,Drama",140min,2005
+A Beautiful Mind,RonHoward,8.2,"Biography,Drama",135min,2001
+The Longest Day,"KenAnnakin,",7.7,"Action,Drama,History",178min,1962
+Iron Man,JonFavreau,7.9,"Action,Adventure,Science Fiction",126min,2008
+Zombieland,RubenFleischer,7.6,"Action,Comedy,Horror",88min,2009
+Atonement,JoeWright,7.8,"Drama,Mystery,Romance",123min,2007
+Good Will Hunting,GusVanSant,8.3,"Drama,Romance",126min,1997
+The Usual Suspects,BryanSinger,8.5,"Crime,Drama,Mystery",106min,1995
+The Lion King,"RogerAllers,",8.5,"Animation,Adventure,Drama",88min,1994
+The Avengers,JossWhedon,8,"Action,Adventure,Science Fiction",143min,2012
+Sen to Chihiro no kamikakushi,HayaoMiyazaki,8.6,"Animation,Adventure,Family",125min,2001
+Oldeuboi,ParkChan-wook,8.4,"Action,Drama,Mystery",101min,2003
+The Sound of Music,RobertWise,8.1,"Biography,Drama,Family",172min,1965
+K.G.F: Chapter 1,PrashanthNeel,8.2,"Action,Crime,Drama",156min,2018
+Jaws,StevenSpielberg,8.1,"Adventure,Thriller",124min,1975
+Star Trek,J.J.Abrams,7.9,"Action,Adventure,Science Fiction",127min,2009
+Oceans Eleven,StevenSoderbergh,7.7,"Crime,Thriller",116min,2001
+Superbad,GregMottola,7.6,Comedy,113min,2007
+The Sixth Sense,M.NightShyamalan,8.2,"Drama,Mystery,Thriller",107min,1999
+About Time,RichardCurtis,7.8,"Comedy,Drama,Fantasy",123min,2013
+Blue Velvet,DavidLynch,7.7,"Crime,Drama,Mystery",120min,1986
+Little Women,GretaGerwig,7.8,"Drama,Romance",135min,2019
+The Curious Case of Benjamin Button,DavidFincher,7.8,"Drama,Fantasy,Romance",166min,2008
+La vie dAdèle,AbdellatifKechiche,7.7,"Drama,Romance",180min,2013
+Eternal Sunshine of the Spotless Mind,MichelGondry,8.3,"Drama,Romance,Science Fiction",108min,2004
+Casino,MartinScorsese,8.2,"Crime,Drama",178min,1995
+Office Space,MikeJudge,7.7,Comedy,89min,1999
+Platoon,OliverStone,8.1,"Drama,War",120min,1986
+Hidden Figures,TheodoreMelfi,7.8,"Biography,Drama,History",127min,2016
+The Big Lebowski,"JoelCoen,",8.1,"Comedy,Crime",117min,1998
+The Hangover,ToddPhillips,7.7,Comedy,100min,2009
+Hamilton,ThomasKail,8.4,"Biography,Drama,History",160min,2020
+Terminator 2: Judgment Day,JamesCameron,8.6,"Action,Science Fiction",137min,1991
+Skyfall,SamMendes,7.8,"Action,Adventure,Thriller",143min,2012
+Whats Eating Gilbert Grape,LasseHallström,7.7,Drama,118min,1993
+One Flew Over the Cuckoos Nest,MilosForman,8.7,Drama,133min,1975
+The Revenant,AlejandroG.Iñárritu,8,"Action,Adventure,Drama",156min,2015
+Wind River,TaylorSheridan,7.7,"Crime,Drama,Mystery",107min,2017
+Sicario,DenisVilleneuve,7.6,"Action,Crime,Drama",121min,2015
+The Imitation Game,MortenTyldum,8,"Biography,Drama,Thriller",114min,2014
+Trainspotting,DannyBoyle,8.1,Drama,93min,1996
+The Last Samurai,EdwardZwick,7.8,"Action,Drama",154min,2003
+Love Actually,RichardCurtis,7.6,"Comedy,Drama,Romance",135min,2003
+Catch Me If You Can,StevenSpielberg,8.1,"Biography,Crime,Drama",141min,2002
+Boogie Nights,PaulThomasAnderson,7.9,Drama,155min,1997
+Moana,"RonClements,",7.6,"Animation,Adventure,Comedy",107min,2016
+Donnie Darko,RichardKelly,8,"Drama,Mystery,Science Fiction",113min,2001
+The Exorcist,WilliamFriedkin,8.1,Horror,122min,1973
+Ah-ga-ssi,ParkChan-wook,8.1,"Drama,Romance,Thriller",145min,2016
+Sabrina,BillyWilder,7.6,"Comedy,Drama,Romance",113min,1954
+Hauru no ugoku shiro,HayaoMiyazaki,8.2,"Animation,Adventure,Family",119min,2004
+Ratatouille,"BradBird,",8.1,"Animation,Adventure,Comedy",111min,2007
+The Notebook,NickCassavetes,7.8,"Drama,Romance",123min,2004
+Memento,ChristopherNolan,8.4,"Mystery,Thriller",113min,2000
+"Il buono, il brutto, il cattivo",SergioLeone,8.8,"Adventure,Western",161min,1966
+Zootopia,"ByronHoward,",8,"Animation,Adventure,Comedy",108min,2016
+The Help,TateTaylor,8.1,Drama,146min,2011
+The Fighter,DavidO.Russell,7.8,"Action,Biography,Drama",116min,2010
+Braveheart,MelGibson,8.4,"Biography,Drama,History",178min,1995
+The Father,FlorianZeller,8.2,"Drama,Mystery",97min,2020
+Kill Bill: Vol. 1,QuentinTarantino,8.2,"Action,Crime,Drama",111min,2003
+The Big Short,AdamMcKay,7.8,"Biography,Comedy,Drama",130min,2015
+Captain America: Civil War,"AnthonyRusso,",7.8,"Action,Adventure,Science Fiction",147min,2016
+Harry Potter and the Prisoner of Azkaban,AlfonsoCuarón,7.9,"Adventure,Family,Fantasy",142min,2004
+Ferris Buellers Day Off,JohnHughes,7.8,Comedy,103min,1986
+The Lord of the Rings: The Two Towers,PeterJackson,8.8,"Action,Adventure,Drama",179min,2002
+The Fly,DavidCronenberg,7.6,"Drama,Horror,Science Fiction",96min,1986
+Arrival,DenisVilleneuve,7.9,"Drama,Mystery,Science Fiction",116min,2016
+Minority Report,StevenSpielberg,7.7,"Action,Crime,Mystery",145min,2002
+The Perks of Being a Wallflower,StephenChbosky,8,"Drama,Romance",103min,2012
+Cidade de Deus,"FernandoMeirelles,",8.6,"Crime,Drama",130min,2002
+True Romance,TonyScott,7.9,"Crime,Drama,Romance",119min,1993
+Nightcrawler,DanGilroy,7.8,"Crime,Drama,Thriller",117min,2014
+The Social Network,DavidFincher,7.8,"Biography,Drama",120min,2010
+Logan,JamesMangold,8.1,"Action,Drama,Science Fiction",137min,2017
+Snatch,GuyRitchie,8.3,"Comedy,Crime",104min,2000
+Mulholland Dr.,DavidLynch,7.9,"Drama,Mystery,Thriller",147min,2001
+American History X,TonyKaye,8.5,"Crime,Drama",119min,1998
+Green Book,PeterFarrelly,8.2,"Biography,Comedy,Drama",130min,2018
+Willy Wonka & the Chocolate Factory,MelStuart,7.8,"Family,Fantasy,Musical",100min,1971
+"O Brother, Where Art Thou?","JoelCoen,",7.7,"Adventure,Comedy,Crime",107min,2000
+When Harry Met Sally...,RobReiner,7.7,"Comedy,Drama,Romance",95min,1989
+Donnie Brasco,MikeNewell,7.7,"Biography,Crime,Drama",127min,1997
+Rain Man,BarryLevinson,8,Drama,133min,1988
+Jagten,ThomasVinterberg,8.3,Drama,115min,2012
+Reservoir Dogs,QuentinTarantino,8.3,"Crime,Drama,Thriller",99min,1992
+What We Do in the Shadows,"JemaineClement,",7.6,"Comedy,Horror",86min,2014
+Almost Famous,CameronCrowe,7.9,"Adventure,Comedy,Drama",122min,2000
+The Martian,RidleyScott,8,"Adventure,Drama,Science Fiction",144min,2015
+Black Hawk Down,RidleyScott,7.7,"Action,Drama,History",144min,2001
+Die Hard,JohnMcTiernan,8.2,"Action,Thriller",132min,1988
+The Hateful Eight,QuentinTarantino,7.8,"Crime,Drama,Mystery",168min,2015
+Fargo,"JoelCoen,",8.1,"Crime,Thriller",98min,1996
+Captain Fantastic,MattRoss,7.8,"Comedy,Drama",118min,2016
+Bound by Honor,TaylorHackford,7.9,"Crime,Drama",180min,1993
+The Thing,JohnCarpenter,8.2,"Horror,Mystery,Science Fiction",109min,1982
+Into the Wild,SeanPenn,8.1,"Adventure,Biography,Drama",148min,2007
+Cast Away,RobertZemeckis,7.8,"Adventure,Drama,Romance",143min,2000
+The Game,DavidFincher,7.7,"Drama,Mystery,Thriller",129min,1997
+Magnolia,PaulThomasAnderson,8,Drama,188min,1999
+The Blind Side,JohnLeeHancock,7.6,"Biography,Drama,Sport",129min,2009
+En man som heter Ove,HannesHolm,7.7,"Comedy,Drama,Romance",116min,2015
+The Hobbit: An Unexpected Journey,PeterJackson,7.8,"Adventure,Fantasy",169min,2012
+Y tu mamá también,AlfonsoCuarón,7.7,Drama,106min,2001
+2001: A Space Odyssey,StanleyKubrick,8.3,"Adventure,Science Fiction",149min,1968
+The Incredibles,BradBird,8,"Animation,Action,Adventure",115min,2004
+Brokeback Mountain,AngLee,7.7,"Drama,Romance",134min,2005
+The Intouchables,"OlivierNakache,",8.5,"Biography,Comedy,Drama",112min,2011
+La vita è bella,RobertoBenigni,8.6,"Comedy,Drama,Romance",116min,1997
+La La Land,DamienChazelle,8,"Comedy,Drama,Music",128min,2016
+Taken,PierreMorel,7.8,"Action,Crime,Thriller",90min,2008
+Back to the Future Part II,RobertZemeckis,7.8,"Adventure,Comedy,Science Fiction",108min,1989
+Apocalypto,MelGibson,7.8,"Action,Adventure,Drama",139min,2006
+The Girl with the Dragon Tattoo,DavidFincher,7.8,"Crime,Drama,Mystery",158min,2011
+Toy Story 4,JoshCooley,7.7,"Animation,Adventure,Comedy",100min,2019
+Mystic River,ClintEastwood,7.9,"Crime,Drama,Mystery",138min,2003
+Finding Nemo,"AndrewStanton,",8.2,"Animation,Adventure,Comedy",100min,2003
+Psycho,AlfredHitchcock,8.5,"Horror,Mystery,Thriller",109min,1960
+Rush,RonHoward,8.1,"Action,Biography,Drama",123min,2013
+The Pianist,RomanPolanski,8.5,"Biography,Drama,Music",150min,2002
+Room,LennyAbrahamson,8.1,"Drama,Thriller",118min,2015
+A Star Is Born,BradleyCooper,7.6,"Drama,Music,Romance",136min,2018
+The Untouchables,BrianDePalma,7.9,"Crime,Drama,Thriller",119min,1987
+Pride,MatthewWarchus,7.8,"Biography,Comedy,Drama",119min,2014
+The Mitchells vs the Machines,"MichaelRianda,",7.6,"Animation,Adventure,Comedy",114min,2021
+The Butterfly Effect,"EricBress,",7.6,"Drama,Science Fiction,Thriller",113min,2004
+Midnight in Paris,WoodyAllen,7.7,"Comedy,Fantasy,Romance",94min,2011
+Argo,BenAffleck,7.7,"Biography,Drama,Thriller",120min,2012
+"Monsters, Inc.","PeteDocter,",8.1,"Animation,Adventure,Comedy",92min,2001
+Sin City,"FrankMiller,",8,"Crime,Thriller",124min,2005
+Shrek,"AndrewAdamson,",7.9,"Animation,Adventure,Comedy",90min,2001
+Inside Out,"PeteDocter,",8.2,"Animation,Adventure,Comedy",95min,2015
+V for Vendetta,JamesMcTeigue,8.2,"Action,Drama,Science Fiction",132min,2005
+Little Miss Sunshine,"JonathanDayton,",7.8,"Comedy,Drama",101min,2006
+Home Alone,ChrisColumbus,7.7,"Comedy,Family",103min,1990
+12 Years a Slave,SteveMcQueen,8.1,"Biography,Drama,History",134min,2013
+Kick-Ass,MatthewVaughn,7.6,"Action,Comedy,Crime",117min,2010
+Pans Labyrinth,GuillermodelToro,8.2,"Drama,Fantasy,War",118min,2006
+Blazing Saddles,MelBrooks,7.7,"Comedy,Western",93min,1974
+Zodiac,DavidFincher,7.7,"Crime,Drama,Mystery",157min,2007
+Hell or High Water,DavidMackenzie,7.6,"Action,Crime,Drama",102min,2016
+Coco,"LeeUnkrich,",8.4,"Animation,Adventure,Comedy",105min,2017
+Druk,ThomasVinterberg,7.7,"Comedy,Drama",117min,2020
+Marriage Story,NoahBaumbach,7.9,"Drama,Romance",137min,2019
+First Blood,TedKotcheff,7.7,"Action,Adventure,Thriller",93min,1982
+Kimi no na wa.,MakotoShinkai,8.4,"Animation,Drama,Fantasy",106min,2016
+Training Day,AntoineFuqua,7.7,"Action,Crime,Drama",122min,2001
+Rocky,JohnG.Avildsen,8.1,"Drama,Sport",120min,1976
+Big Fish,TimBurton,8,"Adventure,Drama,Fantasy",125min,2003
+Hot Fuzz,EdgarWright,7.8,"Action,Comedy,Mystery",121min,2007
+L.A. Confidential,CurtisHanson,8.2,"Crime,Drama,Mystery",138min,1997
+Silver Linings Playbook,DavidO.Russell,7.7,"Comedy,Drama,Romance",122min,2012
+Unforgiven,ClintEastwood,8.2,"Drama,Western",130min,1992
+Twelve Monkeys,TerryGilliam,8,"Mystery,Science Fiction,Thriller",129min,1995
+Toy Story 2,"JohnLasseter,",7.9,"Animation,Adventure,Comedy",92min,1999
+(500) Days of Summer,MarcWebb,7.7,"Comedy,Drama,Romance",95min,2009
+Dallas Buyers Club,Jean-MarcVallée,7.9,"Biography,Drama",117min,2013
+Rio Bravo,HowardHawks,8,Western,141min,1959
+Moonrise Kingdom,WesAnderson,7.8,"Comedy,Drama,Romance",94min,2012
+Lethal Weapon,RichardDonner,7.6,"Action,Crime,Thriller",109min,1987
+Up,"PeteDocter,",8.3,"Animation,Adventure,Comedy",96min,2009
+The Others,AlejandroAmenábar,7.6,"Horror,Mystery,Thriller",101min,2001
+"Three Billboards Outside Ebbing, Missouri",MartinMcDonagh,8.1,"Comedy,Crime,Drama",115min,2017
+Soul,"PeteDocter,",8,"Animation,Adventure,Comedy",100min,2020
+Shaun of the Dead,EdgarWright,7.9,"Comedy,Horror",99min,2004
+Salinui chueok,BongJoonHo,8.1,"Crime,Drama,Mystery",131min,2003
+Le fabuleux destin dAmélie Poulain,Jean-PierreJeunet,8.3,"Comedy,Romance",122min,2001
+Amadeus,MilosForman,8.4,"Biography,Drama,Music",160min,1984
+Dances with Wolves,KevinCostner,8,"Adventure,Drama,Western",181min,1990
+Warrior,GavinConnor,8.2,"Action,Drama,Sport",140min,2011
+Captain America: The Winter Soldier,"AnthonyRusso,",7.8,"Action,Adventure,Science Fiction",136min,2014
+Casablanca,MichaelCurtiz,8.5,"Drama,Romance,War",102min,1942
+Manhattan,WoodyAllen,7.9,"Comedy,Drama,Romance",96min,1979
+3 Idiots,RajkumarHirani,8.4,"Comedy,Drama",170min,2009
+How to Train Your Dragon,"DeanDeBlois,",8.1,"Animation,Action,Adventure",98min,2010
+WALL·E,AndrewStanton,8.4,"Animation,Adventure,Family",98min,2008
+Before Sunrise,RichardLinklater,8.1,"Drama,Romance",101min,1995
+"Lock, Stock and Two Smoking Barrels",GuyRitchie,8.2,"Action,Comedy,Crime",107min,1998
+Indiana Jones and the Last Crusade,StevenSpielberg,8.2,"Action,Adventure",127min,1989
+The Fugitive,AndrewDavis,7.8,"Action,Crime,Drama",130min,1993
+Who Framed Roger Rabbit,RobertZemeckis,7.7,"Animation,Adventure,Comedy",104min,1988
+Gone with the Wind,"VictorFleming,",8.2,"Drama,Romance,War",238min,1939
+Inside Man,SpikeLee,7.6,"Crime,Drama,Mystery",129min,2006
+Saw,JamesWan,7.6,"Horror,Mystery,Thriller",103min,2004
+Halloween,JohnCarpenter,7.7,"Horror,Thriller",91min,1978
+Gattaca,AndrewNiccol,7.8,"Drama,Science Fiction,Thriller",106min,1997
+The Deer Hunter,MichaelCimino,8.1,"Drama,War",183min,1978
+Portrait de la jeune fille en feu,CélineSciamma,8.1,"Drama,Romance",122min,2019
+Stardust,MatthewVaughn,7.6,"Adventure,Family,Fantasy",127min,2007
+RoboCop,PaulVerhoeven,7.6,"Action,Crime,Science Fiction",102min,1987
+Despicable Me,"PierreCoffin,",7.6,"Animation,Adventure,Comedy",95min,2010
+Big Hero 6,"DonHall,",7.8,"Animation,Action,Adventure",102min,2014
+Tangled,"NathanGreno,",7.7,"Animation,Adventure,Comedy",100min,2010
+Kung Fu Panda,"MarkOsborne,",7.6,"Animation,Action,Adventure",92min,2008
+Wo hu cang long,AngLee,7.9,"Action,Adventure,Drama",120min,2000
+Changeling,ClintEastwood,7.8,"Biography,Crime,Drama",141min,2008
+X: First Class,MatthewVaughn,7.7,"Action,Adventure,Science Fiction",131min,2011
+The Graduate,MikeNichols,8,"Comedy,Drama,Romance",106min,1967
+The Last of the Mohicans,MichaelMann,7.7,"Action,Adventure,Drama",112min,1992
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,StanleyKubrick,8.4,"Comedy,War",95min,1964
+X-Men: Days of Future Past,BryanSinger,7.9,"Action,Adventure,Science Fiction",132min,2014
+The Wild Bunch,SamPeckinpah,7.9,"Action,Adventure,Western",145min,1969
+Slumdog Millionaire,"DannyBoyle,",8,"Drama,Romance",120min,2008
+Toy Story 3,LeeUnkrich,8.3,"Animation,Adventure,Comedy",103min,2010
+Children of Men,AlfonsoCuarón,7.9,"Action,Drama,Science Fiction",109min,2006
+Apollo 13,RonHoward,7.7,"Adventure,Drama,History",140min,1995
+The Lives of Others,FlorianHenckelvonDonnersmarck,8.4,"Drama,Mystery,Thriller",137min,2006
+Man on Fire,TonyScott,7.7,"Action,Crime,Drama",146min,2004
+The Boondock Saints,TroyDuffy,7.7,"Action,Thriller",108min,1999
+Aladdin,"RonClements,",8,"Animation,Adventure,Comedy",90min,1992
+Lawrence of Arabia,DavidLean,8.3,"Adventure,Biography,Drama",218min,1962
+Spotlight,TomMcCarthy,8.1,"Biography,Crime,Drama",129min,2015
+Dark Waters,ToddHaynes,7.6,"Biography,Drama,History",126min,2019
+American Gangster,RidleyScott,7.8,"Biography,Crime,Drama",157min,2007
+The Bourne Identity,DougLiman,7.9,"Action,Mystery,Thriller",119min,2002
+Remember the Titans,BoazYakin,7.8,"Biography,Drama,Sport",113min,2000
+Road to Perdition,SamMendes,7.7,"Crime,Drama,Thriller",117min,2002
+The Machinist,BradAnderson,7.7,"Drama,Thriller",101min,2004
+Coraline,HenrySelick,7.7,"Animation,Drama,Family",100min,2009
+The Blues Brothers,JohnLandis,7.9,"Action,Adventure,Comedy",133min,1980
+Beauty and the Beast,"GaryTrousdale,",8,"Animation,Family,Fantasy",84min,1991
+Blood Diamond,EdwardZwick,8,"Adventure,Drama,Thriller",143min,2006
+District 9,NeillBlomkamp,7.9,"Action,Science Fiction,Thriller",112min,2009
+My Cousin Vinny,JonathanLynn,7.6,"Comedy,Crime",120min,1992
+Straight Outta Compton,F.GaryGray,7.8,"Biography,Drama,History",147min,2015
+Incredibles 2,BradBird,7.6,"Animation,Action,Adventure",118min,2018
+Doctor Zhivago,DavidLean,7.9,"Drama,Romance,War",197min,1965
+The Hobbit: The Desolation of Smaug,PeterJackson,7.8,"Adventure,Fantasy",161min,2013
+Once Upon a Time in the West,SergioLeone,8.5,Western,165min,1968
+Million Dollar Baby,ClintEastwood,8.1,"Drama,Sport",132min,2004
+Young Frankenstein,MelBrooks,8,Comedy,106min,1974
+The Fault in Our Stars,JoshBoone,7.7,"Drama,Romance",126min,2014
+Primal Fear,GregoryHoblit,7.7,"Crime,Drama,Mystery",129min,1996
+Star Trek Into Darkness,J.J.Abrams,7.7,"Action,Adventure,Science Fiction",132min,2013
+Incendies,DenisVilleneuve,8.3,"Drama,Mystery",131min,2010
+Groundhog Day,HaroldRamis,8.1,"Comedy,Drama,Fantasy",101min,1993
+Crash,PaulHaggis,7.8,"Crime,Drama,Thriller",112min,2004
+Birdman or (The Unexpected Virtue of Ignorance),AlejandroG.Iñárritu,7.7,"Comedy,Drama",119min,2014
+Mononoke-hime,HayaoMiyazaki,8.4,"Animation,Adventure,Fantasy",134min,1997
+Hotaru no haka,IsaoTakahata,8.5,"Animation,Drama,War",89min,1988
+As Good as It Gets,JamesL.Brooks,7.7,"Comedy,Drama,Romance",139min,1997
+The Right Stuff,PhilipKaufman,7.8,"Adventure,Biography,Drama",193min,1983
+The Little Mermaid,"RonClements,",7.6,"Animation,Adventure,Comedy",83min,1989
+Lost in Translation,SofiaCoppola,7.7,"Comedy,Drama",102min,2003
+Der Untergang,OliverHirschbiegel,8.2,"Biography,Drama,History",156min,2004
+Gran Torino,ClintEastwood,8.1,Drama,116min,2008
+Monty Python and the Holy Grail,"TerryGilliam,",8.2,"Adventure,Comedy,Fantasy",91min,1975
+Fa Yeung Nin Wah,Kar-WaiWong,8,"Drama,Romance",98min,2000
+Shichinin no samurai,AkiraKurosawa,8.6,"Action,Drama",207min,1954
+Eastern Promises,DavidCronenberg,7.6,"Crime,Drama,Thriller",100min,2007
+This Is Spinal Tap,RobReiner,7.9,"Comedy,Music",82min,1984
+Finding Neverland,MarcForster,7.7,"Biography,Drama,Family",106min,2004
+The Lego Movie,"PhilLord,",7.7,"Animation,Action,Adventure",100min,2014
+Manchester by the Sea,KennethLonergan,7.8,Drama,137min,2016
+Contratiempo,OriolPaulo,8,"Crime,Drama,Mystery",106min,2016
+Deliverance,JohnBoorman,7.7,"Adventure,Drama,Thriller",109min,1972
+True Grit,"EthanCoen,",7.6,"Drama,Western",110min,2010
+The Kings Speech,TomHooper,8,"Biography,Drama,History",118min,2010
+The Trial of the Chicago 7,AaronSorkin,7.7,"Drama,History,Thriller",129min,2020
+Serenity,JossWhedon,7.8,"Action,Adventure,Science Fiction",119min,2005
+Das Boot,WolfgangPetersen,8.4,"Drama,War",149min,1981
+Hunt for the Wilderpeople,TaikaWaititi,7.8,"Adventure,Comedy,Drama",101min,2016
+Kill Bill: Vol. 2,QuentinTarantino,8,"Action,Crime,Thriller",137min,2004
+Moon,DuncanJones,7.8,"Drama,Mystery,Science Fiction",97min,2009
+Its a Wonderful Life,FrankCapra,8.6,"Drama,Family,Fantasy",130min,1946
+Misery,RobReiner,7.8,"Drama,Thriller",107min,1990
+Falling Down,JoelSchumacher,7.6,"Action,Crime,Drama",113min,1993
+Mary Poppins,RobertStevenson,7.8,"Comedy,Family,Fantasy",139min,1964
+Wonder,StephenChbosky,7.9,"Drama,Family",113min,2017
+Capharnaüm,NadineLabaki,8.4,Drama,126min,2018
+Raging Bull,MartinScorsese,8.2,"Biography,Drama,Sport",129min,1980
+Amores perros,AlejandroG.Iñárritu,8.1,"Drama,Thriller",154min,2000
+A Streetcar Named Desire,EliaKazan,7.9,Drama,122min,1951
+To Kill a Mockingbird,RobertMulligan,8.3,"Crime,Drama",129min,1962
+The Royal Tenenbaums,WesAnderson,7.6,"Comedy,Drama",110min,2001
+Fantastic Mr. Fox,WesAnderson,7.9,"Animation,Adventure,Comedy",87min,2009
+Ed Wood,TimBurton,7.8,"Biography,Comedy,Drama",127min,1994
+The Bridges of Madison County,ClintEastwood,7.6,"Drama,Romance",135min,1995
+Life of Pi,AngLee,7.9,"Adventure,Drama,Fantasy",127min,2012
+Sense and Sensibility,AngLee,7.7,"Drama,Romance",136min,1995
+Mulan,"TonyBancroft,",7.6,"Animation,Adventure,Comedy",88min,1998
+Dirty Harry,"DonSiegel,",7.7,"Action,Crime,Thriller",102min,1971
+Rosemarys Baby,RomanPolanski,8,"Drama,Horror",137min,1968
+Star Trek II: The Wrath of Khan,NicholasMeyer,7.7,"Action,Adventure,Science Fiction",113min,1982
+Gone Baby Gone,BenAffleck,7.6,"Crime,Drama,Mystery",114min,2007
+Wreck-It Ralph,RichMoore,7.7,"Animation,Adventure,Comedy",101min,2012
+The Count of Monte Cristo,KevinReynolds,7.7,"Action,Adventure,Drama",131min,2002
+The Theory of Everything,JamesMarsh,7.7,"Biography,Drama,Romance",123min,2014
+The Pursuit of Happyness,GabrieleMuccino,8,"Biography,Drama",117min,2006
+Bãhubali: The Beginning,S.S.Rajamouli,8,"Action,Drama",159min,2015
+Rear Window,AlfredHitchcock,8.5,"Mystery,Thriller",112min,1954
+3:10 to Yuma,JamesMangold,7.7,"Action,Crime,Drama",122min,2007
+Ang-ma-reul bo-at-da,Jee-woonKim,7.8,"Action,Crime,Drama",144min,2010
+Citizen Kane,OrsonWelles,8.3,"Drama,Mystery",119min,1941
+Evil Dead II,SamRaimi,7.7,"Comedy,Horror",84min,1987
+Lion,GarthDavis,8,"Biography,Drama",118min,2016
+The Great Escape,JohnSturges,8.2,"Adventure,Drama,History",172min,1963
+Dog Day Afternoon,SidneyLumet,8,"Biography,Crime,Drama",125min,1975
+The Bridge on the River Kwai,DavidLean,8.2,"Adventure,Drama,War",161min,1957
+The Dirty Dozen,RobertAldrich,7.7,"Action,Adventure,War",150min,1967
+Naked,MikeLeigh,7.7,"Comedy,Drama",131min,1993
+Gravity,AlfonsoCuarón,7.7,"Action,Drama,Science Fiction",91min,2013
+Scent of a Woman,MartinBrest,8,Drama,156min,1992
+Some Like It Hot,BillyWilder,8.2,"Comedy,Music,Romance",121min,1959
+North by Northwest,AlfredHitchcock,8.3,"Action,Adventure,Mystery",136min,1959
+Lord of War,AndrewNiccol,7.6,"Crime,Drama",122min,2005
+Boyz n the Hood,JohnSingleton,7.8,"Crime,Drama",112min,1991
+Akira,KatsuhiroÔtomo,8,"Animation,Action,Drama",124min,1988
+The Boy in the Striped Pajamas,MarkHerman,7.7,"Drama,War",94min,2008
+Brazil,TerryGilliam,7.9,"Drama,Science Fiction",132min,1985
+Planet of the Apes,FranklinJ.Schaffner,8,"Adventure,Science Fiction",112min,1968
+Mr. Nobody,JacoVanDormael,7.8,"Drama,Fantasy,Romance",141min,2009
+The Ten Commandments,CecilB.DeMille,7.9,"Adventure,Drama,Family",220min,1956
+The Naked Gun: From the Files of Police Squad!,DavidZucker,7.6,"Comedy,Crime",85min,1988
+Mad Max 2,GeorgeMiller,7.6,"Action,Adventure,Science Fiction",96min,1981
+The Night of the Hunter,CharlesLaughton,8,"Crime,Drama,Film-Noir",92min,1955
+Awakenings,PennyMarshall,7.8,"Biography,Drama",121min,1990
+Breakfast at Tiffanys,BlakeEdwards,7.6,"Comedy,Drama,Romance",115min,1961
+Ben-Hur,WilliamWyler,8.1,"Adventure,Drama,History",212min,1959
+Vertigo,AlfredHitchcock,8.3,"Mystery,Romance,Thriller",128min,1958
+Dark City,AlexProyas,7.6,"Fantasy,Mystery,Science Fiction",100min,1998
+All the Presidents Men,AlanJ.Pakula,7.9,"Drama,History,Thriller",138min,1976
+Singin in the Rain,"StanleyDonen,",8.3,"Comedy,Musical,Romance",103min,1952
+A Bronx Tale,RobertDeNiro,7.8,"Crime,Drama",121min,1993
+Nuovo Cinema Paradiso,GiuseppeTornatore,8.5,"Drama,Romance",155min,1988
+Match Point,WoodyAllen,7.6,"Drama,Romance,Thriller",124min,2005
+Bridge of Spies,StevenSpielberg,7.6,"Drama,History,Thriller",142min,2015
+Rise of the Planet of the Apes,RupertWyatt,7.6,"Action,Drama,Science Fiction",105min,2011
+Tonari no Totoro,HayaoMiyazaki,8.1,"Animation,Comedy,Family",86min,1988
+Philadelphia,JonathanDemme,7.7,Drama,125min,1993
+Goldfinger,GuyHamilton,7.7,"Action,Adventure,Thriller",110min,1964
+Midnight Cowboy,JohnSchlesinger,7.8,Drama,113min,1969
+Barry Lyndon,StanleyKubrick,8.1,"Adventure,Drama,War",185min,1975
+Dogville,LarsvonTrier,8,"Crime,Drama",178min,2003
+La piel que habito,PedroAlmodóvar,7.6,"Drama,Horror,Thriller",120min,2011
+The Thin Red Line,TerrenceMalick,7.6,"Drama,History,War",170min,1998
+Boyhood,RichardLinklater,7.9,Drama,165min,2014
+Empire of the Sun,StevenSpielberg,7.7,"Drama,History,War",153min,1987
+Close Encounters of the Third Kind,StevenSpielberg,7.6,"Drama,Science Fiction",138min,1977
+Walk the Line,JamesMangold,7.8,"Biography,Drama,Music",136min,2005
+Being John Malkovich,SpikeJonze,7.8,"Comedy,Drama,Fantasy",113min,1999
+Creed,RyanCoogler,7.6,"Action,Drama,Sport",133min,2015
+Butch Cassidy and the Sundance Kid,GeorgeRoyHill,8,"Biography,Crime,Drama",110min,1969
+El secreto de sus ojos,JuanJoséCampanella,8.2,"Drama,Mystery,Romance",129min,2009
+JFK,OliverStone,8,"Drama,History,Thriller",189min,1991
+Serbuan maut,GarethEvans,7.6,"Action,Crime,Thriller",101min,2011
+Do the Right Thing,SpikeLee,7.9,"Comedy,Drama",120min,1989
+The Magnificent Seven,JohnSturges,7.7,"Action,Adventure,Western",128min,1960
+Chung Hing sam lam,Kar-WaiWong,8,"Comedy,Crime,Drama",102min,1994
+Spartacus,StanleyKubrick,7.9,"Adventure,Biography,Drama",197min,1960
+My Fair Lady,GeorgeCukor,7.8,"Drama,Family,Musical",170min,1964
+Carlitos Way,BrianDePalma,7.9,"Crime,Drama,Thriller",144min,1993
+End of Watch,DavidAyer,7.6,"Action,Adventure,Crime",109min,2012
+Sound of Metal,DariusMarder,7.7,"Drama,Music",120min,2019
+Män som hatar kvinnor,NielsArdenOplev,7.8,"Crime,Drama,Mystery",152min,2009
+Before Sunset,RichardLinklater,8.1,"Drama,Romance",80min,2004
+The Birds,AlfredHitchcock,7.7,"Drama,Horror,Mystery",119min,1963
+Pâfekuto burû,SatoshiKon,8,"Animation,Crime,Drama",81min,1997
+Captain Phillips,PaulGreengrass,7.8,"Action,Biography,Crime",134min,2013
+Fried Green Tomatoes,JonAvnet,7.7,Drama,130min,1991
+Glory,EdwardZwick,7.8,"Biography,Drama,History",122min,1989
+Adaptation.,SpikeJonze,7.7,"Comedy,Drama",115min,2002
+Dawn of the Planet of the Apes,MattReeves,7.6,"Action,Adventure,Drama",130min,2014
+The Bourne Supremacy,PaulGreengrass,7.7,"Action,Mystery,Thriller",108min,2004
+La haine,MathieuKassovitz,8.1,"Crime,Drama",98min,1995
+Double Indemnity,BillyWilder,8.3,"Crime,Drama,Film-Noir",107min,1944
+The Jungle Book,WolfgangReitherman,7.6,"Animation,Adventure,Comedy",78min,1967
+Per un pugno di dollari,SergioLeone,7.9,"Action,Drama,Western",99min,1964
+The Color Purple,StevenSpielberg,7.7,Drama,154min,1985
+The Sting,GeorgeRoyHill,8.3,"Comedy,Crime,Drama",129min,1973
+Annie Hall,WoodyAllen,8,"Comedy,Romance",93min,1977
+The Man from Earth,RichardSchenkman,7.9,"Drama,Fantasy,Mystery",87min,2007
+The Nightmare Before Christmas,HenrySelick,7.9,"Animation,Family,Fantasy",76min,1993
+Gandhi,RichardAttenborough,8.1,"Biography,Drama",191min,1982
+Baahubali 2: The Conclusion,S.S.Rajamouli,8.2,"Action,Drama",167min,2017
+The Elephant Man,DavidLynch,8.2,"Biography,Drama",124min,1980
+After Hours,MartinScorsese,7.6,"Comedy,Crime,Drama",97min,1985
+Kimetsu no Yaiba: Mugen Ressha-Hen,HaruoSotozaki,8.2,"Animation,Action,Adventure",117min,2020
+The Bourne Ultimatum,PaulGreengrass,8,"Action,Mystery,Thriller",115min,2007
+Life of Brian,TerryJones,8,Comedy,94min,1979
+Papillon,FranklinJ.Schaffner,8,"Biography,Crime,Drama",151min,1973
+Koe no katachi,NaokoYamada,8.1,"Animation,Drama",130min,2016
+Sunset Blvd.,BillyWilder,8.4,"Drama,Film-Noir",110min,1950
+Die Hard: With a Vengeance,JohnMcTiernan,7.6,"Action,Adventure,Thriller",128min,1995
+Metropolis,FritzLang,8.3,"Drama,Science Fiction",153min,1927
+The Conversation,FrancisFordCoppola,7.8,"Drama,Mystery,Thriller",113min,1974
+Hachi: A Dogs Tale,LasseHallström,8.1,"Biography,Drama,Family",93min,2009
+M - Eine Stadt sucht einen Mörder,FritzLang,8.3,"Crime,Mystery,Thriller",117min,1931
+Traffic,StevenSoderbergh,7.6,"Crime,Drama,Thriller",147min,2000
+The Iron Giant,BradBird,8.1,"Animation,Action,Adventure",86min,1999
+Snow White and the Seven Dwarfs,"WilliamCottrell,",7.6,"Animation,Adventure,Family",83min,1937
+Rushmore,WesAnderson,7.6,"Comedy,Drama,Romance",93min,1998
+How to Train Your Dragon 2,DeanDeBlois,7.8,"Animation,Action,Adventure",102min,2014
+Paper Moon,PeterBogdanovich,8.1,"Comedy,Crime,Drama",102min,1973
+Billy Elliot,StephenDaldry,7.7,"Drama,Music",110min,2000
+Solaris,AndreiTarkovsky,8,"Drama,Mystery,Science Fiction",167min,1972
+Before Midnight,RichardLinklater,7.9,"Drama,Romance",109min,2013
+The Last Picture Show,PeterBogdanovich,8,"Drama,Romance",118min,1971
+Stalker,AndreiTarkovsky,8.1,"Drama,Science Fiction",162min,1979
+In the Name of the Father,JimSheridan,8.1,"Biography,Crime,Drama",133min,1993
+Relatos salvajes,DamiánSzifron,8.1,"Comedy,Drama,Thriller",122min,2014
+La montaña sagrada,AlejandroJodorowsky,7.8,"Adventure,Drama,Fantasy",114min,1973
+127 Hours,DannyBoyle,7.6,"Biography,Drama",94min,2010
+Isle of Dogs,WesAnderson,7.8,"Animation,Adventure,Comedy",101min,2018
+Låt den rätte komma in,TomasAlfredson,7.9,"Drama,Fantasy,Horror",114min,2008
+White Heat,RaoulWalsh,8.1,"Action,Crime,Drama",114min,1949
+The French Connection,WilliamFriedkin,7.7,"Action,Crime,Drama",104min,1971
+The Wrestler,DarrenAronofsky,7.9,"Drama,Sport",109min,2008
+The King of Comedy,MartinScorsese,7.8,"Comedy,Crime,Drama",109min,1982
+Per qualche dollaro in più,SergioLeone,8.2,Western,132min,1965
+Sling Blade,BillyBobThornton,8,Drama,135min,1996
+Batoru rowaiaru,KinjiFukasaku,7.6,"Action,Adventure,Drama",114min,2000
+The Apartment,BillyWilder,8.3,"Comedy,Drama,Romance",125min,1960
+Diarios de motocicleta,WalterSalles,7.8,"Adventure,Biography,Drama",126min,2004
+"Paris, Texas",WimWenders,8,Drama,145min,1984
+Bonnie and Clyde,ArthurPenn,7.7,"Action,Biography,Crime",111min,1967
+Det sjunde inseglet,IngmarBergman,8.1,"Drama,Fantasy",96min,1957
+Dawn of the Dead,GeorgeA.Romero,7.8,"Horror,Thriller",127min,1978
+Das Cabinet des Dr. Caligari,RobertWiene,8,"Horror,Mystery,Thriller",76min,1920
+Serpico,SidneyLumet,7.7,"Biography,Crime,Drama",130min,1973
+Vikram Vedha,"Gayatri,",8.2,"Action,Crime,Drama",147min,2017
+What Ever Happened to Baby Jane?,RobertAldrich,8,"Drama,Horror,Thriller",134min,1962
+Gake no ue no Ponyo,HayaoMiyazaki,7.6,"Animation,Adventure,Comedy",101min,2008
+21 Grams,AlejandroG.Iñárritu,7.7,"Crime,Drama,Thriller",124min,2003
+Ip Man,WilsonYip,8,"Action,Biography,Drama",106min,2008
+Detachment,TonyKaye,7.7,Drama,98min,2011
+Cool Hand Luke,StuartRosenberg,8.1,"Crime,Drama",127min,1967
+The Insider,MichaelMann,7.8,"Biography,Drama,Thriller",157min,1999
+Night of the Living Dead,GeorgeA.Romero,7.8,"Horror,Thriller",96min,1968
+Jai Bhim,T.J.Gnanavel,8.9,"Crime,Drama,Mystery",164min,2021
+On the Waterfront,EliaKazan,8.1,"Crime,Drama,Thriller",108min,1954
+La grande bellezza,PaoloSorrentino,7.7,Drama,141min,2013
+October Sky,JoeJohnston,7.8,"Biography,Drama,Family",108min,1999
+Jodaeiye Nader az Simin,AsgharFarhadi,8.3,Drama,123min,2011
+Lola rennt,TomTykwer,7.7,"Action,Crime,Thriller",81min,1998
+The Fall,TarsemSingh,7.8,"Adventure,Drama,Fantasy",117min,2006
+The Thin Man,W.S.VanDyke,7.9,"Comedy,Mystery",91min,1934
+PK,RajkumarHirani,8.1,"Comedy,Drama,Science Fiction",153min,2014
+Glengarry Glen Ross,JamesFoley,7.7,"Crime,Drama,Mystery",100min,1992
+Mississippi Burning,AlanParker,7.8,"Crime,Drama,History",128min,1988
+Searching,AneeshChaganty,7.6,"Drama,Mystery,Thriller",102min,2018
+Seppuku,MasakiKobayashi,8.6,"Action,Drama,Mystery",133min,1962
+In the Heat of the Night,NormanJewison,7.9,"Drama,Mystery,Thriller",110min,1967
+Rebecca,AlfredHitchcock,8.1,"Drama,Film-Noir,Mystery",130min,1940
+Kung fu,StephenChow,7.7,"Action,Comedy,Fantasy",99min,2004
+The Outlaw Josey Wales,ClintEastwood,7.8,Western,135min,1976
+Persona,IngmarBergman,8.1,"Drama,Thriller",85min,1966
+Network,SidneyLumet,8.1,Drama,121min,1976
+Nosferatu,F.W.Murnau,7.9,"Fantasy,Horror",94min,1922
+From Here to Eternity,FredZinnemann,7.6,"Drama,Romance,War",118min,1953
+Ordinary People,RobertRedford,7.7,Drama,124min,1980
+Roma,AlfonsoCuarón,7.7,Drama,135min,2018
+Roman Holiday,WilliamWyler,8,"Comedy,Romance",118min,1953
+Dangal,NiteshTiwari,8.3,"Action,Biography,Drama",161min,2016
+Ran,AkiraKurosawa,8.2,"Action,Drama,War",162min,1985
+This Is England,ShaneMeadows,7.7,"Crime,Drama",101min,2006
+La migliore offerta,GiuseppeTornatore,7.8,"Crime,Drama,Mystery",131min,2013
+The Remains of the Day,JamesIvory,7.8,"Drama,Romance",134min,1993
+Paths of Glory,StanleyKubrick,8.4,"Drama,War",88min,1957
+Clerks,KevinSmith,7.7,Comedy,92min,1994
+Hotel Rwanda,TerryGeorge,8.1,"Biography,Drama,History",121min,2004
+Der Name der Rose,Jean-JacquesAnnaud,7.7,"Drama,History,Mystery",130min,1986
+Belle de jour,LuisBuñuel,7.7,"Drama,Romance",100min,1967
+Nebraska,AlexanderPayne,7.7,"Adventure,Comedy,Drama",115min,2013
+The Man Who Shot Liberty Valance,JohnFord,8.1,"Drama,Western",123min,1962
+La dolce vita,FedericoFellini,8,"Comedy,Drama",174min,1960
+Pink Floyd: The Wall,AlanParker,8,"Drama,Fantasy,Music",95min,1982
+Enter the Dragon,RobertClouse,7.6,"Action,Crime,Drama",102min,1973
+Judgment at Nuremberg,StanleyKramer,8.3,"Drama,War",179min,1961
+Cabaret,BobFosse,7.7,"Drama,Music,Musical",124min,1972
+Papurika,SatoshiKon,7.7,"Animation,Drama,Fantasy",90min,2006
+Charade,StanleyDonen,7.9,"Comedy,Mystery,Romance",113min,1963
+Sing Street,JohnCarney,7.9,"Comedy,Drama,Music",106min,2016
+High Noon,FredZinnemann,8,"Drama,Thriller,Western",85min,1952
+I Am Sam,JessieNelson,7.6,Drama,132min,2001
+Tumbbad,"RahiAnilBarve,",8.2,"Drama,Fantasy,Horror",104min,2018
+Kôkaku Kidôtai,MamoruOshii,7.9,"Animation,Action,Crime",83min,1995
+Mysterious Skin,GreggAraki,7.6,Drama,105min,2004
+Kaze tachinu,HayaoMiyazaki,7.7,"Animation,Biography,Drama",126min,2013
+Millers Crossing,"JoelCoen,",7.7,"Crime,Drama,Thriller",115min,1990
+Trois couleurs: Blanc,KrzysztofKieslowski,7.6,"Comedy,Drama,Romance",92min,1994
+The Quiet Man,JohnFord,7.7,"Comedy,Drama,Romance",129min,1952
+Majo no takkyûbin,HayaoMiyazaki,7.8,"Animation,Adventure,Family",103min,1989
+Tenkû no shiro Rapyuta,HayaoMiyazaki,8,"Animation,Adventure,Family",125min,1986
+All About Eve,JosephL.Mankiewicz,8.2,Drama,138min,1950
+Days of Heaven,TerrenceMalick,7.8,"Drama,Romance",94min,1978
+Kramer vs. Kramer,RobertBenton,7.8,Drama,105min,1979
+Kaze no tani no Naushika,HayaoMiyazaki,8,"Animation,Adventure,Science Fiction",117min,1984
+The Searchers,JohnFord,7.9,"Adventure,Drama,Western",119min,1956
+Malcolm X,SpikeLee,7.7,"Biography,Drama,History",202min,1992
+50/50,JonathanLevine,7.6,"Comedy,Drama,Romance",100min,2011
+"South Park: Bigger, Longer & Uncut",TreyParker,7.7,"Animation,Comedy,Fantasy",81min,1999
+Mommy,XavierDolan,8,Drama,139min,2014
+Ying xiong,YimouZhang,7.9,"Action,Adventure,Drama",120min,2002
+8½,FedericoFellini,8,Drama,138min,1963
+Manbiki kazoku,HirokazuKoreeda,7.9,"Crime,Drama",121min,2018
+The Big Sleep,HowardHawks,7.9,"Crime,Film-Noir,Mystery",114min,1946
+Cinderella Man,RonHoward,8,"Biography,Drama,Romance",144min,2005
+Badlands,TerrenceMalick,7.7,"Action,Crime,Drama",94min,1973
+Lucky Number Slevin,PaulMcGuigan,7.7,"Crime,Drama,Thriller",110min,2006
+Klaus,"SergioPablos,",8.1,"Animation,Adventure,Comedy",96min,2019
+Witness for the Prosecution,BillyWilder,8.4,"Crime,Drama,Mystery",116min,1957
+Once Were Warriors,LeeTamahori,7.9,"Crime,Drama",102min,1994
+Flipped,RobReiner,7.7,"Comedy,Drama,Romance",90min,2010
+Rebel Without a Cause,NicholasRay,7.6,Drama,111min,1955
+Chun gwong cha sit,Kar-WaiWong,7.7,"Drama,Romance",101min,1997
+Dancer in the Dark,LarsvonTrier,7.9,"Crime,Drama,Musical",140min,2000
+Serbuan maut 2: Berandal,GarethEvans,7.9,"Action,Crime,Thriller",150min,2014
+Spoorloos,GeorgeSluizer,7.7,"Mystery,Thriller",107min,1988
+The Last Emperor,BernardoBertolucci,7.7,"Biography,Drama,History",163min,1987
+Patton,FranklinJ.Schaffner,7.9,"Biography,Drama,War",172min,1970
+The Hustler,RobertRossen,8,"Drama,Sport",134min,1961
+Taare Zameen Par,"AamirKhan,",8.3,"Drama,Family",165min,2007
+Ray,TaylorHackford,7.7,"Biography,Drama,Music",152min,2004
+Modern Times,CharlesChaplin,8.5,"Comedy,Drama,Romance",87min,1936
+Happiness,ToddSolondz,7.7,"Comedy,Drama",134min,1998
+King Kong,"MerianC.Cooper,",7.9,"Adventure,Horror,Science Fiction",100min,1933
+The Great Dictator,CharlesChaplin,8.4,"Comedy,Drama,War",125min,1940
+Me and Earl and the Dying Girl,AlfonsoGomez-Rejon,7.7,"Comedy,Drama",105min,2015
+Yôjinbô,AkiraKurosawa,8.2,"Action,Drama,Thriller",110min,1961
+Madeo,BongJoonHo,7.8,"Crime,Drama,Mystery",129min,2009
+Zwartboek,PaulVerhoeven,7.7,"Drama,Thriller,War",145min,2006
+Barton Fink,"JoelCoen,",7.6,"Comedy,Drama,Thriller",116min,1991
+The Last King of Scotland,KevinMacdonald,7.7,"Biography,Drama,History",123min,2006
+Zulu,CyEndfield,7.7,"Drama,History,War",138min,1964
+The Best Years of Our Lives,WilliamWyler,8.1,"Drama,Romance,War",170min,1946
+Letters from Iwo Jima,ClintEastwood,7.9,"Action,Adventure,Drama",141min,2006
+Dial M for Murder,AlfredHitchcock,8.2,"Crime,Thriller",105min,1954
+The Artist,MichelHazanavicius,7.9,"Comedy,Drama,Romance",100min,2011
+Abre los ojos,AlejandroAmenábar,7.7,"Drama,Mystery,Science Fiction",119min,1997
+The Maltese Falcon,JohnHuston,8,"Crime,Film-Noir,Mystery",100min,1941
+Seven Pounds,GabrieleMuccino,7.6,Drama,123min,2008
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni","HideakiAnno,",8,"Animation,Action,Drama",87min,1997
+Sardar Udham,ShoojitSircar,8.5,"Biography,Crime,Drama",164min,2021
+WolfWalkers,"TommMoore,",8,"Animation,Adventure,Family",103min,2020
+Fiddler on the Roof,NormanJewison,8,"Drama,Family,Musical",181min,1971
+Short Cuts,RobertAltman,7.7,"Comedy,Drama",188min,1993
+Strangers on a Train,AlfredHitchcock,7.9,"Crime,Drama,Film-Noir",101min,1951
+East of Eden,EliaKazan,7.8,Drama,118min,1955
+The Third Man,CarolReed,8.1,"Film-Noir,Mystery,Thriller",104min,1949
+Rope,AlfredHitchcock,7.9,"Crime,Drama,Mystery",80min,1948
+All That Jazz,BobFosse,7.8,"Drama,Music,Musical",123min,1979
+Frankenstein,JamesWhale,7.8,"Drama,Horror,Science Fiction",70min,1931
+Breaking the Waves,LarsvonTrier,7.8,Drama,159min,1996
+Kubo and the Two Strings,TravisKnight,7.7,"Animation,Action,Adventure",101min,2016
+The Straight Story,DavidLynch,8,"Biography,Drama",112min,1999
+Togo,EricsonCore,7.9,"Adventure,Biography,Drama",113min,2019
+My Left Foot: The Story of Christy Brown,JimSheridan,7.9,"Biography,Drama",103min,1989
+Being There,HalAshby,8,"Comedy,Drama",130min,1979
+Hable con ella,PedroAlmodóvar,7.9,"Drama,Mystery,Romance",112min,2002
+La leggenda del pianista sulloceano,GiuseppeTornatore,8,"Drama,Music,Romance",169min,1998
+Amour,MichaelHaneke,7.9,Drama,127min,2012
+Mary and Max.,AdamElliot,8.1,"Animation,Comedy,Drama",92min,2009
+Stagecoach,JohnFord,7.8,"Adventure,Drama,Western",96min,1939
+It Happened One Night,FrankCapra,8.1,"Comedy,Romance",105min,1934
+A Christmas Story,BobClark,7.9,"Comedy,Family",93min,1983
+Nashville,RobertAltman,7.7,"Comedy,Drama,Music",160min,1975
+The Philadelphia Story,GeorgeCukor,7.9,"Comedy,Romance",112min,1940
+Gangs of Wasseypur,AnuragKashyap,8.2,"Action,Comedy,Crime",321min,2012
+To Be or Not to Be,ErnstLubitsch,8.2,"Comedy,Romance,War",99min,1942
+Hamlet,KennethBranagh,7.8,Drama,242min,1996
+Doragon bôru chô: Burorî,TatsuyaNagamine,7.8,"Animation,Action,Adventure",100min,2018
+Once,JohnCarney,7.8,"Drama,Music,Romance",86min,2007
+Tengoku to jigoku,AkiraKurosawa,8.4,"Crime,Drama,Mystery",143min,1963
+The Manchurian Candidate,JohnFrankenheimer,7.9,"Drama,Thriller",126min,1962
+Fanny och Alexander,IngmarBergman,8.1,Drama,188min,1982
+Der Himmel über Berlin,WimWenders,8,"Drama,Fantasy,Romance",128min,1987
+The Treasure of the Sierra Madre,JohnHuston,8.2,"Adventure,Drama,Western",126min,1948
+Harold and Maude,HalAshby,7.9,"Comedy,Drama,Romance",91min,1971
+Rashômon,AkiraKurosawa,8.2,"Crime,Drama,Mystery",88min,1950
+Short Term 12,DestinDanielCretton,7.9,Drama,96min,2013
+Where Eagles Dare,BrianG.Hutton,7.6,"Action,Adventure,War",158min,1968
+The Killing Fields,RolandJoffé,7.8,"Biography,Drama,History",141min,1984
+Ajeossi,Jeong-beomLee,7.7,"Action,Crime,Drama",119min,2010
+Beasts of No Nation,CaryJojiFukunaga,7.7,"Drama,War",137min,2015
+The Odd Couple,GeneSaks,7.6,Comedy,105min,1968
+Fantasia,"JamesAlgar,",7.7,"Animation,Family,Fantasy",125min,1940
+The Day of the Jackal,FredZinnemann,7.8,"Crime,Drama,Thriller",143min,1973
+Waking Life,RichardLinklater,7.7,"Animation,Drama,Fantasy",99min,2001
+The Grapes of Wrath,JohnFord,8.1,Drama,129min,1940
+Cape Fear,J.LeeThompson,7.7,"Drama,Thriller",106min,1962
+Kurenai no buta,HayaoMiyazaki,7.7,"Animation,Adventure,Comedy",94min,1992
+Festen,ThomasVinterberg,8.1,Drama,105min,1998
+Bajrangi Bhaijaan,KabirKhan,8.1,"Action,Adventure,Comedy",163min,2015
+Guess Whos Coming to Dinner,StanleyKramer,7.8,"Comedy,Drama",108min,1967
+Miracle in Cell No. 7,MehmetAdaÖztekin,8.2,Drama,132min,2019
+Notorious,AlfredHitchcock,7.9,"Drama,Film-Noir,Romance",102min,1946
+Whos Afraid of Virginia Woolf?,MikeNichols,8,Drama,131min,1966
+Gaslight,GeorgeCukor,7.8,"Crime,Drama,Mystery",114min,1944
+La planète sauvage,RenéLaloux,7.7,"Animation,Science Fiction",72min,1973
+Ladri di biciclette,VittorioDeSica,8.3,Drama,89min,1948
+25th Hour,SpikeLee,7.6,Drama,135min,2002
+Trois couleurs: Bleu,KrzysztofKieslowski,7.9,"Drama,Music,Mystery",94min,1993
+The Big Heat,FritzLang,7.9,"Crime,Film-Noir,Thriller",89min,1953
+Loving Vincent,"DorotaKobiela,",7.8,"Animation,Biography,Crime",94min,2017
+Freaks,TodBrowning,7.9,"Drama,Horror",64min,1932
+Mimi wo sumaseba,YoshifumiKondô,7.9,"Animation,Drama,Family",111min,1995
+Chugyeokja,NaHong-jin,7.8,"Action,Crime,Drama",125min,2008
+United 93,PaulGreengrass,7.6,"Action,Drama,History",111min,2006
+Shershaah,Vishnuvardhan,8.4,"Action,Biography,Drama",135min,2021
+Trois couleurs: Rouge,KrzysztofKieslowski,8.1,"Drama,Mystery,Romance",99min,1994
+Perfetti sconosciuti,PaoloGenovese,7.7,"Comedy,Drama",96min,2016
+Hedwig and the Angry Inch,JohnCameronMitchell,7.7,"Comedy,Drama,Music",95min,2001
+The Verdict,SidneyLumet,7.7,Drama,129min,1982
+The Day the Earth Stood Still,RobertWise,7.8,"Drama,Science Fiction",92min,1951
+Lat sau san taam,JohnWoo,7.7,"Action,Crime,Thriller",128min,1992
+Andhadhun,SriramRaghavan,8.2,"Comedy,Crime,Music",139min,2018
+The Caine Mutiny,EdwardDmytryk,7.7,"Drama,War",124min,1954
+The Taking of Pelham One Two Three,JosephSargent,7.6,"Action,Crime,Thriller",104min,1974
+Hannah and Her Sisters,WoodyAllen,7.9,"Comedy,Drama",107min,1986
+Zerkalo,AndreiTarkovsky,8,"Biography,Drama",107min,1975
+The Worlds Fastest Indian,RogerDonaldson,7.8,"Biography,Drama,Sport",127min,2005
+Ratsasan,RamKumar,8.3,"Crime,Drama,Mystery",170min,2018
+Anatomy of a Murder,OttoPreminger,8,"Drama,Mystery",161min,1959
+Smultronstället,IngmarBergman,8.1,"Drama,Romance",91min,1957
+Zindagi Na Milegi Dobara,ZoyaAkhtar,8.1,"Comedy,Drama,Musical",155min,2011
+Night on Earth,JimJarmusch,7.7,"Comedy,Drama",129min,1991
+City Lights,CharlesChaplin,8.5,"Comedy,Drama,Romance",87min,1931
+Les quatre cents coups,FrançoisTruffaut,8.1,"Crime,Drama",99min,1959
+Control,AntonCorbijn,7.7,"Biography,Drama,Music",122min,2007
+Touch of Evil,OrsonWelles,8,"Crime,Drama,Film-Noir",95min,1958
+Un long dimanche de fiançailles,Jean-PierreJeunet,7.6,"Drama,Mystery,Romance",133min,2004
+Good Bye Lenin!,WolfgangBecker,7.7,"Comedy,Drama,Romance",121min,2003
+Invasion of the Body Snatchers,DonSiegel,7.7,"Drama,Horror,Science Fiction",80min,1956
+Secrets & Lies,MikeLeigh,8,"Comedy,Drama",136min,1996
+Ikiru,AkiraKurosawa,8.3,Drama,143min,1952
+La double vie de Véronique,KrzysztofKieslowski,7.7,"Drama,Fantasy,Music",98min,1991
+The African Queen,JohnHuston,7.7,"Adventure,Drama,Romance",105min,1951
+The Killing,StanleyKubrick,8,"Crime,Drama,Film-Noir",84min,1956
+Mou gaan dou,"AndrewLau,",8,"Action,Crime,Drama",101min,2002
+Cat on a Hot Tin Roof,RichardBrooks,7.9,Drama,108min,1958
+Pather Panchali,SatyajitRay,8.3,Drama,125min,1955
+Un prophète,JacquesAudiard,7.8,"Crime,Drama",155min,2009
+Todo sobre mi madre,PedroAlmodóvar,7.8,Drama,101min,1999
+The Lion in Winter,AnthonyHarvey,7.9,"Biography,Drama,History",134min,1968
+"Aguirre, der Zorn Gottes",WernerHerzog,7.9,"Action,Adventure,Biography",95min,1972
+Z,Costa-Gavras,8.2,"Crime,Drama,Thriller",127min,1969
+The Innocents,JackClayton,7.8,Horror,100min,1961
+Das weiße Band - Eine deutsche Kindergeschichte,MichaelHaneke,7.8,"Drama,Mystery,Thriller",144min,2009
+Fitzcarraldo,WernerHerzog,8,"Adventure,Drama",158min,1982
+His Girl Friday,HowardHawks,7.8,"Comedy,Drama,Romance",92min,1940
+The Adventures of Robin Hood,"MichaelCurtiz,",7.9,"Action,Adventure,Romance",102min,1938
+Lilja 4-ever,LukasMoodysson,7.8,"Crime,Drama",109min,2002
+Drishyam,NishikantKamat,8.2,"Crime,Drama,Mystery",163min,2015
+Il conformista,BernardoBertolucci,7.9,Drama,113min,1970
+The Man Who Would Be King,JohnHuston,7.8,"Adventure,History,War",129min,1975
+All Quiet on the Western Front,LewisMilestone,8.1,"Drama,War",152min,1930
+Le salaire de la peur,Henri-GeorgesClouzot,8.2,"Adventure,Drama,Thriller",131min,1953
+Under sandet,MartinZandvliet,7.8,"Drama,History,War",100min,2015
+Leviafan,AndreyZvyagintsev,7.6,"Crime,Drama",140min,2014
+Lagaan: Once Upon a Time in India,AshutoshGowariker,8.1,"Drama,Musical,Sport",224min,2001
+Miracle on 34th Street,GeorgeSeaton,7.9,"Comedy,Drama,Family",96min,1947
+Amarcord,FedericoFellini,7.9,"Comedy,Drama",123min,1973
+Arsenic and Old Lace,FrankCapra,7.9,"Comedy,Crime,Thriller",118min,1943
+In Cold Blood,RichardBrooks,7.9,"Biography,Crime,Drama",134min,1967
+Andrei Rublev,AndreiTarkovsky,8,"Biography,Drama,History",205min,1966
+To Have and Have Not,HowardHawks,7.8,"Adventure,Comedy,Film-Noir",100min,1944
+Repulsion,RomanPolanski,7.6,"Drama,Horror,Thriller",105min,1965
+Il gattopardo,LuchinoVisconti,8,"Drama,History",186min,1963
+Gully Boy,ZoyaAkhtar,7.9,"Drama,Music,Romance",154min,2019
+Ba wang bie ji,KaigeChen,8.1,"Drama,Music,Romance",171min,1993
+The Asphalt Jungle,JohnHuston,7.8,"Crime,Drama,Film-Noir",112min,1950
+Song of the Sea,TommMoore,8,"Animation,Adventure,Drama",93min,2014
+Le Samouraï,Jean-PierreMelville,8,"Crime,Drama",105min,1967
+Ôkami kodomo no Ame to Yuki,MamoruHosoda,8.1,"Animation,Drama,Family",117min,2012
+Tropa de Elite,JoséPadilha,8,"Action,Crime,Drama",115min,2007
+Omoide no Mânî,HiromasaYonebayashi,7.7,"Animation,Drama,Family",103min,2014
+Kaguya-hime no monogatari,IsaoTakahata,8,"Animation,Drama,Family",137min,2013
+Hoje Eu Quero Voltar Sozinho,DanielRibeiro,7.9,"Drama,Romance",96min,2014
+Stalag 17,BillyWilder,8,"Comedy,Drama,War",120min,1953
+Dersu Uzala,AkiraKurosawa,8.2,"Adventure,Biography,Drama",142min,1975
+Bride of Frankenstein,JamesWhale,7.8,"Drama,Horror,Science Fiction",75min,1935
+The 39 Steps,AlfredHitchcock,7.6,"Crime,Mystery,Thriller",86min,1935
+Sacrifice,AndreiTarkovsky,7.9,Drama,149min,1986
+The Kid,CharlesChaplin,8.3,"Comedy,Drama,Family",68min,1921
+"I, Daniel Blake",KenLoach,7.8,Drama,100min,2016
+Asuran,Vetrimaaran,8.5,"Action,Drama",141min,2019
+Gegen die Wand,FatihAkin,7.9,"Drama,Romance",121min,2004
+Les parapluies de Cherbourg,JacquesDemy,7.8,"Drama,Musical,Romance",91min,1964
+My Name Is Khan,KaranJohar,7.9,"Drama,Romance",165min,2010
+Key Largo,JohnHuston,7.7,"Action,Crime,Drama",100min,1948
+Tôkyô monogatari,YasujirôOzu,8.2,Drama,136min,1953
+Laura,OttoPreminger,7.9,"Drama,Film-Noir,Mystery",88min,1944
+Forushande,AsgharFarhadi,7.7,Drama,124min,2016
+Le Petit Prince,MarkOsborne,7.7,"Animation,Adventure,Drama",108min,2015
+Philomena,StephenFrears,7.6,"Biography,Comedy,Drama",98min,2013
+Le scaphandre et le papillon,JulianSchnabel,8,"Biography,Drama",112min,2007
+Shadow of a Doubt,AlfredHitchcock,7.8,"Film-Noir,Thriller",108min,1943
+The Red Shoes,"MichaelPowell,",8.1,"Drama,Music,Romance",135min,1948
+Mr. Smith Goes to Washington,FrankCapra,8.1,"Comedy,Drama",129min,1939
+The Lost Weekend,BillyWilder,7.9,"Drama,Film-Noir",101min,1945
+Batman: Mask of the Phantasm,"KevinAltieri,",7.8,"Animation,Action,Adventure",76min,1993
+The Message,MoustaphaAkkad,8.1,"Biography,Drama,History",177min,1976
+Article 15,AnubhavSinha,8.2,"Crime,Drama,Mystery",130min,2019
+Mildred Pierce,MichaelCurtiz,8,"Crime,Drama,Film-Noir",111min,1945
+Mar adentro,AlejandroAmenábar,8,"Biography,Drama",126min,2004
+Red River,"HowardHawks,",7.8,"Drama,Western",133min,1948
+Jûbê ninpûchô,YoshiakiKawajiri,7.8,"Animation,Action,Adventure",94min,1993
+Underground,EmirKusturica,8.1,"Comedy,Drama,Fantasy",170min,1995
+Scarface,"HowardHawks,",7.7,"Action,Crime,Drama",93min,1932
+Dare mo shiranai,HirokazuKoreeda,8,Drama,141min,2004
+The Lady Vanishes,AlfredHitchcock,7.8,"Mystery,Thriller",96min,1938
+A Man for All Seasons,FredZinnemann,7.7,"Biography,Drama,History",120min,1966
+Soorarai Pottru,SudhaKongara,8.7,Drama,153min,2020
+Sweet Smell of Success,AlexanderMackendrick,8,"Drama,Film-Noir",96min,1957
+Cowboy Bebop: Tengoku no tobira,ShinichirWatanabe,7.8,"Animation,Action,Crime",115min,2001
+96,C.PremKumar,8.4,"Drama,Romance",158min,2018
+Tam e guilass,AbbasKiarostami,7.7,Drama,95min,1997
+Persepolis,"VincentParonnaud,",8,"Animation,Biography,Drama",96min,2007
+Ondskan,MikaelHåfström,7.7,Drama,113min,2003
+Harvey,HenryKoster,7.9,"Comedy,Drama,Fantasy",104min,1950
+Frost/Nixon,RonHoward,7.7,"Biography,Drama,History",122min,2008
+Das Experiment,OliverHirschbiegel,7.7,"Drama,Thriller",120min,2001
+La passion de Jeanne dArc,CarlTheodorDreyer,8.2,"Biography,Drama,History",110min,1928
+The Station Agent,TomMcCarthy,7.6,"Comedy,Drama",89min,2003
+The General,"ClydeBruckman,",8.2,"Action,Adventure,Comedy",67min,1926
+Kakushi-toride no san-akunin,AkiraKurosawa,8.1,"Action,Adventure,Drama",139min,1958
+Shine,ScottHicks,7.7,"Biography,Drama,Music",105min,1996
+Yeopgijeogin geunyeo,Jae-youngKwak,8,"Comedy,Drama,Romance",137min,2001
+Wait Until Dark,TerenceYoung,7.7,Thriller,108min,1967
+The Invisible Man,JamesWhale,7.6,"Horror,Science Fiction",71min,1933
+La Strada,FedericoFellini,8,Drama,108min,1954
+Efter brylluppet,SusanneBier,7.7,Drama,120min,2006
+Nostalgia,AndreiTarkovsky,8,Drama,125min,1983
+The Lunchbox,RiteshBatra,7.8,"Drama,Romance",104min,2013
+Kokuhaku,TetsuyaNakashima,7.7,"Drama,Thriller",106min,2010
+In a Lonely Place,NicholasRay,7.9,"Drama,Film-Noir,Mystery",94min,1950
+Super 30,VikasBahl,7.9,"Biography,Drama",154min,2019
+Toki o kakeru shôjo,MamoruHosoda,7.7,"Animation,Adventure,Comedy",98min,2006
+The Broken Circle Breakdown,FelixvanGroeningen,7.7,"Drama,Music,Romance",111min,2012
+Il postino,"MichaelRadford,",7.7,"Biography,Comedy,Drama",108min,1994
+Peeping Tom,MichaelPowell,7.6,"Drama,Horror,Thriller",101min,1960
+Brief Encounter,DavidLean,8,"Drama,Romance",86min,1945
+Kis Uykusu,NuriBilgeCeylan,8,Drama,196min,2014
+Sunrise: A Song of Two Humans,F.W.Murnau,8.1,"Drama,Romance",94min,1927
+La battaglia di Algeri,GilloPontecorvo,8.1,"Drama,War",121min,1966
+Bringing Up Baby,HowardHawks,7.8,Comedy,102min,1938
+Bronenosets Potemkin,SergeiEisenstein,8,"Drama,History,Thriller",75min,1925
+Les yeux sans visage,GeorgesFranju,7.6,"Drama,Horror",90min,1960
+"Crna macka, beli macor",EmirKusturica,8,"Comedy,Crime,Romance",127min,1998
+Hiroshima mon amour,AlainResnais,7.9,"Drama,Romance",90min,1959
+Les choristes,ChristopheBarratier,7.8,"Comedy,Drama,Music",97min,2004
+Bom yeoreum gaeul gyeoul geurigo bom,KimKi-duk,8,"Drama,Romance",103min,2003
+Down by Law,JimJarmusch,7.7,"Comedy,Crime,Drama",107min,1986
+Kumonosu-jô,AkiraKurosawa,8.1,"Drama,History",110min,1957
+Sleuth,JosephL.Mankiewicz,8,"Mystery,Thriller",138min,1972
+Dip huet seung hung,JohnWoo,7.8,"Action,Crime,Drama",111min,1989
+Le charme discret de la bourgeoisie,LuisBuñuel,7.8,Comedy,102min,1972
+Gongdong gyeongbi guyeok JSA,ParkChan-wook,7.8,"Action,Drama,Thriller",110min,2000
+Darbareye Elly,"AsgharFarhadi,",7.9,"Drama,Mystery",119min,2009
+You Cant Take It with You,FrankCapra,7.8,"Comedy,Drama,Romance",126min,1938
+The Purple Rose of Cairo,WoodyAllen,7.7,"Comedy,Fantasy,Romance",82min,1985
+Viskningar och rop,IngmarBergman,8,Drama,91min,1972
+The Gold Rush,CharlesChaplin,8.2,"Adventure,Comedy,Drama",95min,1925
+Les diaboliques,Henri-GeorgesClouzot,8.1,"Crime,Drama,Horror",117min,1955
+Vozvrashchenie,AndreyZvyagintsev,7.9,Drama,110min,2003
+Ace in the Hole,BillyWilder,8.1,"Drama,Film-Noir",111min,1951
+Kagemusha,AkiraKurosawa,7.9,"Drama,History,War",180min,1980
+The Shop Around the Corner,ErnstLubitsch,8.1,"Comedy,Drama,Romance",99min,1940
+Babam ve Oglum,CaganIrmak,8.2,"Drama,Family",112min,2005
+Vivre sa vie: Film en douze tableaux,Jean-LucGodard,7.9,Drama,80min,1962
+Jungfrukällan,IngmarBergman,8.1,Drama,89min,1960
+Inherit the Wind,StanleyKramer,8.1,"Biography,Drama,History",128min,1960
+Les triplettes de Belleville,SylvainChomet,7.7,"Animation,Comedy,Drama",80min,2003
+Jules et Jim,FrançoisTruffaut,7.7,"Drama,Romance",105min,1962
+Ivanovo detstvo,"AndreiTarkovsky,",8,"Drama,War",95min,1962
+Padman,R.Balki,7.9,"Biography,Comedy,Drama",140min,2018
+Uri: The Surgical Strike,AdityaDhar,8.2,"Action,Drama,History",138min,2019
+Chhichhore,NiteshTiwari,8.2,"Comedy,Drama,Romance",143min,2019
+Dil Chahta Hai,FarhanAkhtar,8.1,"Comedy,Drama,Romance",183min,2001
+Okuribito,YôjirôTakita,8,"Drama,Music",130min,2008
+G.O.R.A.,ÖmerFarukSorak,8,"Adventure,Comedy,Science Fiction",127min,2004
+Adams æbler,AndersThomasJensen,7.7,"Comedy,Crime,Drama",94min,2005
+Jab We Met,ImtiazAli,7.9,"Comedy,Drama,Romance",138min,2007
+Celda 211,DanielMonzón,7.6,"Action,Crime,Drama",113min,2009
+Lavventura,MichelangeloAntonioni,7.8,"Drama,Mystery,Romance",144min,1960
+Au revoir les enfants,LouisMalle,8,"Drama,War",104min,1987
+Le passé,AsgharFarhadi,7.7,"Drama,Mystery",130min,2013
+Knockin on Heavens Door,ThomasJahn,7.9,"Action,Crime,Comedy",87min,1997
+Badhaai ho,AmitRavindernathSharma,8,"Comedy,Drama",124min,2018
+Masaan,NeerajGhaywan,8.1,Drama,109min,2015
+Tôkyô goddofâzâzu,SatoshiKon,7.8,"Animation,Adventure,Comedy",90min,2003
+Sennen joyû,SatoshiKon,7.8,"Animation,Drama,Fantasy",87min,2001
+Kind Hearts and Coronets,RobertHamer,8,"Comedy,Crime",106min,1949
+Sherlock Jr.,BusterKeaton,8.2,"Action,Comedy,Romance",45min,1924
+Da hong deng long gao gao gua,YimouZhang,8.1,"Drama,History,Romance",125min,1991
+In America,JimSheridan,7.7,Drama,105min,2002
+Bin-jip,KimKi-duk,7.9,"Crime,Drama,Romance",88min,2004
+Höstsonaten,IngmarBergman,8.1,"Drama,Music",99min,1978
+Dilwale Dulhania Le Jayenge,AdityaChopra,8,"Drama,Romance",189min,1995
+Crimes and Misdemeanors,WoodyAllen,7.8,"Comedy,Drama",104min,1989
+Love and Death,WoodyAllen,7.7,"Comedy,War",85min,1975
+Le notti di Cabiria,FedericoFellini,8.1,Drama,110min,1957
+La belle et la bête,"JeanCocteau,",7.9,"Drama,Fantasy,Romance",96min,1946
+Du rififi chez les hommes,JulesDassin,8.1,"Crime,Drama,Thriller",118min,1955
+El ángel exterminador,LuisBuñuel,8,"Drama,Fantasy",95min,1962
+Yume,"AkiraKurosawa,",7.7,"Drama,Fantasy",119min,1990
+Kal Ho Naa Ho,NikkhilAdvani,7.9,"Comedy,Drama,Musical",186min,2003
+Bir Zamanlar Anadoluda,NuriBilgeCeylan,7.8,"Crime,Drama",157min,2011
+Duck Soup,LeoMcCarey,7.8,"Comedy,Musical",69min,1933
+Tropa de Elite 2: O Inimigo Agora é Outro,JoséPadilha,8,"Action,Crime,Drama",115min,2010
+Barfi!,AnuragBasu,8.1,"Comedy,Drama,Romance",151min,2012
+C.R.A.Z.Y.,Jean-MarcVallée,7.9,"Comedy,Drama",129min,2005
+Rang De Basanti,RakeyshOmprakashMehra,8.1,"Comedy,Crime,Drama",167min,2006
+Talvar,MeghnaGulzar,8.1,"Crime,Drama,Mystery",132min,2015
+Dom za vesanje,EmirKusturica,8.1,"Comedy,Crime,Drama",142min,1988
+A Wednesday,NeerajPandey,8,"Action,Crime,Drama",104min,2008
+Vera Drake,MikeLeigh,7.6,"Crime,Drama",125min,2004
+Udta Punjab,AbhishekChaubey,7.7,"Action,Crime,Drama",148min,2016
+The Magdalene Sisters,PeterMullan,7.7,Drama,114min,2002
+Nueve reinas,FabiánBielinsky,7.9,"Crime,Drama,Thriller",114min,2000
+Special Chabbis,NeerajPandey,8,"Crime,Drama,Thriller",144min,2013
+Pink,AniruddhaRoyChowdhury,8.1,"Crime,Drama,Thriller",136min,2016
+Sanjuro,AkiraKurosawa,8,"Action,Drama,Thriller",96min,1962
+Le dîner de cons,FrancisVeber,7.6,Comedy,80min,1998
+La Grande Illusion,JeanRenoir,8.1,"Drama,War",113min,1937
+No Mans Land,DanisTanovic,7.9,"Comedy,Drama,War",98min,2001
+Hana-bi,TakeshiKitano,7.7,"Crime,Drama,Romance",103min,1997
+Haider,VishalBhardwaj,8.1,"Action,Crime,Drama",160min,2014
+Mandariinid,ZazaUrushadze,8.1,"Drama,War",87min,2013
+Jean de Florette,ClaudeBerri,8.1,"Comedy,Drama,Western",120min,1986
+Roma città aperta,RobertoRossellini,8,"Drama,Thriller,War",103min,1945
+Zelig,WoodyAllen,7.7,Comedy,79min,1983
+La règle du jeu,JeanRenoir,7.9,"Comedy,Drama",110min,1939
+Drishyam 2,JeethuJoseph,8.4,"Crime,Drama,Thriller",152min,2021
+Sullivans Travels,PrestonSturges,7.9,"Adventure,Comedy,Drama",90min,1941
+Taegukgi hwinalrimyeo,Je-kyuKang,8,"Action,Drama,War",140min,2004
+Sholay,RameshSippy,8.1,"Action,Adventure,Comedy",204min,1975
+Central do Brasil,WalterSalles,8,Drama,110min,1998
+Drishyam,JeethuJoseph,8.3,"Crime,Drama,Thriller",160min,2013
+The Muppet Christmas Carol,BrianHenson,7.7,"Comedy,Drama,Family",85min,1992
+A Night at the Opera,"SamWood,",7.8,"Comedy,Music,Musical",96min,1935
+Joyeux Noël,ChristianCarion,7.7,"Drama,History,Music",116min,2005
+Airlift,RajaMenon,7.9,"Action,Drama,History",130min,2016
+Hera Pheri,Priyadarshan,8.1,"Action,Comedy,Crime",156min,2000
+Andaz Apna Apna,RajkumarSantoshi,8,"Action,Comedy,Romance",160min,1994
+The Circus,CharlesChaplin,8.1,"Comedy,Family,Romance",72min,1928
+"Swades: We, the People",AshutoshGowariker,8.1,"Drama,Musical",210min,2004
+Auf der anderen Seite,FatihAkin,7.7,Drama,122min,2007
+M.S. Dhoni: The Untold Story,NeerajPandey,7.9,"Biography,Drama,Sport",184min,2016
+Munna Bhai M.B.B.S.,RajkumarHirani,8.1,"Comedy,Drama",156min,2003
+Dev.D,AnuragKashyap,7.9,"Comedy,Drama,Romance",144min,2009
+Bhaag Milkha Bhaag,RakeyshOmprakashMehra,8.2,"Biography,Drama,Sport",186min,2013
+Eskiya,YavuzTurgul,8.1,"Crime,Drama,Thriller",128min,1996
+Queen,VikasBahl,8.1,"Adventure,Comedy,Drama",146min,2013
+Black,SanjayLeelaBhansali,8.1,Drama,122min,2005
+Veer-Zaara,YashChopra,7.8,"Drama,Family,Musical",192min,2004
+Hindi Medium,SaketChaudhary,7.8,"Comedy,Drama",132min,2017
+Vicky Donor,ShoojitSircar,7.8,"Comedy,Romance",126min,2012
+OMG: Oh My God!,UmeshShukla,8.1,"Comedy,Drama,Fantasy",125min,2012
+Nefes: Vatan Sagolsun,"LeventSemerci,",7.9,"Action,Drama,Thriller",128min,2009
+Kahaani,SujoyGhosh,8.1,"Mystery,Thriller",122min,2012
+Baby,NeerajPandey,7.9,"Action,Crime,Thriller",159min,2015
+Her Sey Çok Güzel Olacak,ÖmerVargi,8.1,"Comedy,Drama,Thriller",107min,1998
+Chak De! India,ShimitAmin,8.1,"Drama,Family,Sport",153min,2007
+Paan Singh Tomar,TigmanshuDhulia,8.2,"Action,Biography,Crime",135min,2012
+Lage Raho Munna Bhai,RajkumarHirani,8,"Comedy,Drama,Romance",144min,2006
+Vizontele,"YilmazErdogan,",8,"Comedy,Drama",110min,2001
+Sarfarosh,JohnMathewMatthan,8.1,"Action,Drama,Thriller",174min,1999
+Udaan,VikramadityaMotwane,8.1,Drama,134min,2010
+English Vinglish,GauriShinde,7.8,"Comedy,Drama,Family",134min,2012
+Anand,HrishikeshMukherjee,8.1,"Drama,Musical",122min,1971
